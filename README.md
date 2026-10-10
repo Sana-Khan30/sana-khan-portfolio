@@ -2,15 +2,16 @@
 
 > *"From API to pixel — I own the full stack."*
 
-A custom-designed, high-converting freelance and engineering portfolio for **Sana Khan**, an independent Full Stack MERN Developer based in Karachi, Pakistan. Built with **React 19, Vite, TypeScript, Tailwind CSS, Framer Motion, GSAP, and Three.js**.
+Personal portfolio of **Sana Khan**, an independent Full Stack MERN Developer based in Karachi, Pakistan. Engineered with **React 19, Vite, TypeScript, Tailwind CSS, Framer Motion, GSAP, and Three.js**.
 
 ---
 
 ## 🌟 Live Preview & Links
 
-- **Live Portfolio:** [https://sana-khan-developer-portfolio.vercel.app](https://sana-khan-developer-portfolio.vercel.app)
+- **Live Portfolio:** [https://sana-khan-portfolio.vercel.app](https://sana-khan-portfolio.vercel.app)
 - **Flagship Client Store (CLENORA):** [https://clenorastore.com](https://clenorastore.com)
 - **GitHub Profile:** [https://github.com/Sana-Khan30](https://github.com/Sana-Khan30)
+- **Portfolio Repository:** [https://github.com/Sana-Khan30/sana-khan-portfolio](https://github.com/Sana-Khan30/sana-khan-portfolio)
 - **LinkedIn:** [https://www.linkedin.com/in/sana-khan30/](https://www.linkedin.com/in/sana-khan30/)
 - **Direct Email:** [sanasamad592@gmail.com](mailto:sanasamad592@gmail.com)
 - **WhatsApp:** [+92 322 6350189](https://wa.me/923226350189)
@@ -19,24 +20,29 @@ A custom-designed, high-converting freelance and engineering portfolio for **San
 
 ## 🚀 Technical Stack
 
-- **Frontend:** React 19, Vite, TypeScript, Tailwind CSS v4, Lucide React
+### Portfolio Application Stack
+- **Framework & Runtime:** React 19, Vite, TypeScript
+- **Styling & UI:** Tailwind CSS, Lucide React
 - **Animations & 3D:** Three.js / Canvas wireframes, GSAP (ScrollTrigger), Framer Motion
-- **Backend Architecture:** Node.js, Express 5, RESTful APIs, Zod schema validation, Helmet, bcrypt
-- **Database & Authentication:** MongoDB Atlas (Mongoose atomic transactions & locks), JWT Authentication (HttpOnly cookies)
-- **Cloud & Storage:** Cloudinary SDK, Firebase
-- **Testing & Quality:** 90+ Automated Backend Tests (auth, catalog, concurrent checkouts, inventory locks)
-- **Routing & DevOps:** Multi-Page React Router DOM v7, Vercel SPA rewrites (`vercel.json`), Hostinger Cloud
+- **Routing & Navigation:** React Router DOM v7 (Multi-page routing with SPA fallback)
+- **Deployment:** Vercel (`vercel.json` SPA rewrites)
+
+### Full-Stack Engineering Capabilities (Across Showcase Projects)
+- **Backend & APIs:** Node.js, Express, RESTful APIs, Zod schema validation, Helmet security headers, bcrypt
+- **Databases & Auth:** MongoDB Atlas (Mongoose atomic transactions & locks), JWT Authentication (HttpOnly cookies)
+- **Cloud Media & Storage:** Cloudinary SDK, Firebase Firestore
+- **Quality & Automation:** Automated backend test suites (auth, catalog, concurrent checkouts, inventory locks in Clenora repo)
 
 ---
 
-## ✨ Featured Production & Hackathon Projects
+## ✨ Featured Projects & Real Deliverables
 
 ### 🛒 1. CLENORA — Modern Cleaning Products E-Commerce
-- **Type:** Flagship Production Client Project
+- **Type:** Production Commercial Client Project
 - **Live Store:** [https://clenorastore.com](https://clenorastore.com) (Hosted on Hostinger)
 - **Repository:** [https://github.com/Sana-Khan30/Clenora-Store](https://github.com/Sana-Khan30/Clenora-Store)
-- **Stack:** React 19, Node.js + Express 5, MongoDB Atlas, JWT, Cloudinary, Zod, Helmet, Three.js Loader
-- **Features:** Cash on Delivery checkout with server-side price recalculation, atomic stock locking (`$inc` transactions), WhatsApp order dispatch, customer portal, and an Admin ERP Dashboard with a 14-day sales sparkline and 90+ automated backend tests.
+- **Stack:** React 19, Node.js + Express, MongoDB Atlas, JWT, Cloudinary, Zod, Helmet, Three.js Brand Loader
+- **Features:** Cash on Delivery checkout with server-side price recalculation, atomic stock locking (`$inc` transactions), WhatsApp order dispatch, customer account portal, and an Admin ERP Dashboard with 14-day sales sparklines and automated backend tests.
 
 ### 📝 2. BlogVerse — Full-Stack MERN Editorial Platform
 - **Type:** FemHack 2025/2026 Hackathon Project
@@ -68,16 +74,16 @@ A custom-designed, high-converting freelance and engineering portfolio for **San
 
 ---
 
-## 🛠️ Installation & Local Development
+## 🛠️ Installation & Local Setup
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/Sana-Khan30/sana-khan-developer-portfolio.git
+git clone https://github.com/Sana-Khan30/sana-khan-portfolio.git
 ```
 
 ### 2. Navigate to the project directory:
 ```bash
-cd sana-khan-developer-portfolio
+cd sana-khan-portfolio
 ```
 
 ### 3. Install dependencies:
@@ -85,7 +91,7 @@ cd sana-khan-developer-portfolio
 npm install
 ```
 
-### 4. Start the development server:
+### 4. Start development server:
 ```bash
 npm run dev
 ```
@@ -97,7 +103,7 @@ npm run build
 
 ---
 
-## 📬 Contact & Hire
+## 📬 Contact & Collaboration
 
 Available for freelance web applications, e-commerce stores, custom admin ERPs, and full-stack MERN contracts:
 

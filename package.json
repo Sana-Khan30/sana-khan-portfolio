@@ -1,6 +1,6 @@
 {
-  "name": "sana-khan-developer-portfolio",
-  "description": "Modern Full Stack MERN Developer portfolio for Sana Khan",
+  "name": "sana-khan-portfolio",
+  "description": "Personal portfolio of Sana Khan — Full Stack MERN Developer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
